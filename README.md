@@ -18,11 +18,11 @@ Explore the live resources:
 ---
 
 ## **Table of Contents**  
-1. [Project Overview](#project-overview)  
-2. [Visual Exploration](#visual-exploration)  
-3. [Research Exploration](#research-exploration)  
-4. [Final Designs](#final-designs)  
-5. [Live Demo & Resources](#live-demo-and-resources)  
+1. [Project Overview](#01-project-overview)  
+2. [Visual Exploration](#02-visual-exploration)  
+3. [Research Exploration](#03-research-exploration)  
+4. [Final Designs](#04-final-designs)  
+5. [Live Demo & Resources](#05-live-demo-and-resources)  
 
 ---
 
