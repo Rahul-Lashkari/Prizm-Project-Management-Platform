@@ -6,7 +6,7 @@ At the age of 15, I built an entire MVP for **Prizm**—a B2B SaaS Project Manag
 - Mobile screens and dashboards  
 - Research exploration  
 - Visual branding  
-- UI/UX concepts, workflows, wireframes, prototypes, and interactions  
+- UI/UX concepts, DevEx/DevRel, workflows, wireframes, prototypes, and interactions  
 - Complete project documentation  
 
 Explore the live resources:  
